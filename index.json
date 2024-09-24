@@ -1,65 +1,11 @@
 {
   "spider": "./jar/fan.txt",
-  "logo": "https://avatars.githubusercontent.com/u/58679624?v=4222",
-  "lives": [
-    {
-      "name": "范明明•ipv6",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "初秋语•ipv4",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/list.txt",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "YanG•综合",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "drang•ipv6",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/M3U/ipv6.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Ray•综合",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "范明明•电台1",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "范明明•电台2",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
-      "playerType": 1
-    }
-  ],
+  "logo": "https://avatars.githubusercontent.com/u/58679624?v=4222a",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣┃广告是骗子",
+      "name": "豆瓣｜1。0.1｜广告是骗子",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -952,6 +898,60 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/drpy.js"
+    }
+  ],
+  "lives": [
+    {
+      "name": "范明明•ipv6",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "初秋语•ipv4",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/list.txt",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "YanG•综合",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "drang•ipv6",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/M3U/ipv6.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Ray•综合",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "范明明•电台1",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "范明明•电台2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "playerType": 1
     }
   ],
   "parses": [
