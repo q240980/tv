@@ -5,6 +5,26 @@
       "name": "精选 codeberg"
     },
     {
+      "url": "https://codeberg.org/q240980/tv/raw/branch/master/0.json",
+      "name": "广告全是骗子"
+    },
+    {
+      "url": "https://codeberg.org/q240980/tv/raw/branch/master/0.json",
+      "name": "信广告小心噶腰子"
+    },
+    {
+      "url": "http://我不是.肥猫.live/接口禁止贩卖",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "巧儿"
+    },
+    {
+      "url": "https://codeberg.org/mk666/tvbox/raw/branch/main/tvbox1.json",
+      "name": "OK猫"
+    },
+    {
       "url": "https://codeberg.org/q240980/tv/raw/branch/master/0821.json",
       "name": "高天流云 No.1 "
     },
@@ -27,6 +47,10 @@
     {
       "url": "https://codeberg.org/q240980/tv/raw/branch/master/XYQ.json",
       "name": "高天流云 XYQ"
+    },
+    {
+      "url": "http://192.168.2.8/tvbox/0.json",
+      "name": "精选 本地调试"
     }
   ]
 }
