@@ -305,20 +305,6 @@
     "cms.qdwght.com",
     "mozai.4gtv.tv"
   ],
-  "lives": [
-    {
-      "name": "mklive",
-      "type": 0,
-      "url": "https://codeberg.org/mk666/tvbox/raw/branch/main/ZhiBo1.txt",
-      "playerType": 2
-    },
-    {
-      "name": "电影",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722589153126/movie.txt",
-      "playerType": 2
-    }
-  ],
   "ijk": [
     {
       "group": "软解码",
