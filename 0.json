@@ -1,12 +1,12 @@
 {
-  "spider":"./jar/custom_spider.jar",
+  "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725241719652/okjpg.txt",
   "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
   "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites":[
 
     {
-      "key": "纸条2",
-      "name": "🗞纸条┃搜索",
+      "key": "小纸条",
+      "name": "🗞纸条2┃搜索",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
